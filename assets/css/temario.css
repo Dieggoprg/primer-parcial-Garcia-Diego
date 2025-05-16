@@ -1,0 +1,54 @@
+/* ==== Estilo general ==== */
+body {
+  display: flex;
+  font-family: Segoe UI, sans-serif;
+  background-color: #f8f9fa;
+}
+
+
+/* ==== Header ==== */
+header {
+  text-align: center;
+  padding: 15px 0;
+  margin-top: auto;
+}
+
+header h1 {
+  font-weight: bold;
+  color: #7400a1;
+}
+
+/* ==== Artículos ==== */
+article {
+  margin: 30px auto;
+  text-align: center;
+}
+
+/* ==== Títulos y subtítulos ==== */
+ article h2,
+ article h3 {
+  color: #7400a1;
+  font-weight: bold;
+}
+
+/* ==== Párrafos ==== */
+p {
+  color: #49105f;
+  font-size: 1rem;
+}
+
+/* ==== Botones ==== */
+.btn {
+  border-radius: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
+}
+
+/* ==== Footer ==== */
+footer p {
+ background-color: #212529;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: auto;
+}
